@@ -39,4 +39,4 @@ Cybersecurity fundamentals
 
 ✨ Created by Devmini
 ## 📷 Screenshot
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot 2026-04-21 213312.png)
